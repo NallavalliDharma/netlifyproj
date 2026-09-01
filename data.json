@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "name": "Margherita Pizza",
+      "price": 299
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 249
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "price": 199
+    },
+    {
+      "name": "Veg Burger",
+      "price": 129
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 99
+    },
+    {
+      "name": "Cold Coffe",
+      "price": 79
+    }
+  ],
+  "orders": []
+}
